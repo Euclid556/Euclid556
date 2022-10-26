@@ -1,5 +1,3 @@
-### Hi there... 👋
-
 <h1 align="center"> About Me </h1>
   <div align="center">
    <a href="https://www.linkedin.com/in/david-osullivan-finance" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -13,13 +11,17 @@
   <img align="center" alt="Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
+  <img align="center" alt="Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  
  </div>
  
- <h2>👋 Hi, I’m David :) <br><br>
-👀 A curious guy who loves learning new things <br>
-  &nbsp; &nbsp; &nbsp;  that help me solve problems intelligently. <br><br>
-🌱 Currently Learning: Full Stack Web Development: JavaScript, Vue.js, Node, Nuxt.js <br>
-  &nbsp; &nbsp; &nbsp;  and my favorite NextJs <3<br><br>
+ <h2>👋 Hi, I’m David :)  Full stack software developer, financial analyst and formerly at QuantFinancing. <br><br>
+
+ 
+👀 A curious guy who loves learning new things that help me solve problems intelligently. <br><br>
+🌱 Currently Learning: Full Stack Web Development: JavaScript, Vue.js, Node, Express <br>
+  &nbsp; &nbsp; &nbsp;  and my favorite Nuxt.js <br><br>
 📫 How to reach me: </h2>
 
 - Some of my projects can be seen in my web portfolio: 
@@ -33,12 +35,15 @@
 - Twitter: @QuantFinancing
 - GitHub: https://github.com/euclid556
 - CodePen: https://codepen.io/Euclid
-- Whatsapp: https://api.whatsapp.com/send?phone=353879219770
+- WhatsApp: https://api.whatsapp.com/send?phone=353879219770
 - Telegram: https://t.me/
 
 
+JavaScript, TypeScript, Vue.js, React, Postgres, SQL, Python.
 
+Django, Docker, Pandas, React.js, Vue.js, Nuxt.js, Redux, HTMX, Plotly, Dash, Redis, Celery, Django Channels, websockets, DRF, Scipy, Numpy, Tensorflow, Scikit-Learn, Scrapy, SQLAlchemy, Splash, Flask, Tkinter, Asyncio, Pyomo, Pytest, Heroku, AWS, Google Cloud Platform, Jenkins, Blender, Unreal-Engine, Jest, Cypress
 
+ 
 
 <!--
 **Euclid556/Euclid556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
