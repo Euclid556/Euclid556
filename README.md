@@ -25,24 +25,35 @@
 📫 How to reach me: </h2>
 
 - Some of my projects can be seen in my web portfolio: 
-- https://euclid556.github.io/portifolio/
+- https://euclid556.github.io/portfolio/
 
 
 - Other ways to find me:
 
-- Linkedin: https://www.linkedin.com/in/david-osullivan-finance/
-- Email: david@davidosullivan.me
-- Twitter: @QuantFinancing
-- GitHub: https://github.com/euclid556
-- CodePen: https://codepen.io/Euclid
-- WhatsApp: https://api.whatsapp.com/send?phone=353879219770
-- Telegram: https://t.me/
+- Linkedin:   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/david-osullivan-finance/)
+- Email:      <a href="mailto:david@davidosullivan.me"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+- Twitter:    [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/quantfinancing)
+- GitHub:     [<img alt="Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/euclid556)
+- CodePen:    [<img alt="Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />](https://codepen.io/Euclid)
+- WhatsApp:   [<img alt="Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=353879219770)
+- Telegram:   [<img alt="Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/)
+
+
+
 
 
 JavaScript, TypeScript, Vue.js, React, Postgres, SQL, Python.
 
 Django, Docker, Pandas, React.js, Vue.js, Nuxt.js, Redux, HTMX, Plotly, Dash, Redis, Celery, Django Channels, websockets, DRF, Scipy, Numpy, Tensorflow, Scikit-Learn, Scrapy, SQLAlchemy, Splash, Flask, Tkinter, Asyncio, Pyomo, Pytest, Heroku, AWS, Google Cloud Platform, Jenkins, Blender, Unreal-Engine, Jest, Cypress
 
+ 
+ 
+ ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  </i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
  
 
 <!--
