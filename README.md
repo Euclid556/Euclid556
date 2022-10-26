@@ -30,7 +30,7 @@
 - Other ways to find me:
 
 - Linkedin:   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/david-osullivan-finance/)
-- Email:      <a href="mailto:david@davidosullivan.me"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+- Email:      <a href="mailto:david@davidosullivan.me"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg" width="3.5%"/>
 - Twitter:    [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/quantfinancing)
 - GitHub:     [<img alt="Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/euclid556)
 - CodePen:    [<img alt="Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />](https://codepen.io/Euclid)
