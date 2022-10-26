@@ -10,9 +10,14 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
+  
+  
+  
   
  </div>
  
@@ -24,7 +29,7 @@
   &nbsp; &nbsp; &nbsp;  and my favorite Nuxt.js <br><br>
 📫 How to reach me: </h2>
 
-- Some of my projects can be seen in my web portfolio: [<img alt="Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/githubactions.svg" />](https://euclid556.github.io/portfolio/)
+- Some of my projects can be seen in my web portfolio: [<img alt="Github" width="28px" src="https://img.icons8.com/fluent/96/000000/domain.png" />](https://euclid556.github.io/portfolio/)
 
 
 - Other ways to find me:
