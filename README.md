@@ -24,8 +24,7 @@
   &nbsp; &nbsp; &nbsp;  and my favorite Nuxt.js <br><br>
 📫 How to reach me: </h2>
 
-- Some of my projects can be seen in my web portfolio: 
-- https://euclid556.github.io/portfolio/
+- Some of my projects can be seen in my web portfolio: [<img alt="Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/githubactions.svg" />](https://euclid556.github.io/portfolio/)
 
 
 - Other ways to find me:
@@ -37,25 +36,24 @@
 - CodePen:    [<img alt="Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />](https://codepen.io/Euclid)
 - WhatsApp:   [<img alt="Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=353879219770)
 - Telegram:   [<img alt="Github" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/)
+<br><br>
 
+&nbsp; &nbsp; &nbsp;
 
-
-
-
-JavaScript, TypeScript, Vue.js, React, Postgres, SQL, Python.
-
-Django, Docker, Pandas, React.js, Vue.js, Nuxt.js, Redux, HTMX, Plotly, Dash, Redis, Celery, Django Channels, websockets, DRF, Scipy, Numpy, Tensorflow, Scikit-Learn, Scrapy, SQLAlchemy, Splash, Flask, Tkinter, Asyncio, Pyomo, Pytest, Heroku, AWS, Google Cloud Platform, Jenkins, Blender, Unreal-Engine, Jest, Cypress
-
- 
- 
- ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+ ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Quote / Fact:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 • <i>“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
- 
+   
+  
+<div align="center">
+  <h3>JavaScript, TypeScript, Vue.js, React, Postgres, SQL, Python.</h3>
 
+Django, Docker, Pandas, React.js, Vue.js, Nuxt.js, Redux, HTMX, Plotly, Dash, Redis, Celery, Django Channels, websockets, DRF, Scipy, Numpy, Tensorflow, Scikit-Learn, Scrapy, SQLAlchemy, Splash, Flask, Tkinter, Asyncio, Pyomo, Pytest, Heroku, AWS, Google Cloud Platform, Jenkins, Blender, Unreal-Engine, Jest, Cypress
+</div>
+ 
 <!--
 **Euclid556/Euclid556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
