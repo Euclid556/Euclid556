@@ -5,6 +5,9 @@
 </div>
 
 
+![CPT2210271542-1022x116](https://user-images.githubusercontent.com/86713709/198320802-8d34a666-b0a6-4950-97dc-31d0d7ff0e31.gif)
+
+
 <h1 align="center"> About Me </h1>
   <div align="center">
    <a href="https://www.linkedin.com/in/david-osullivan-finance" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
