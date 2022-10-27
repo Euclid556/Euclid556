@@ -35,7 +35,7 @@
 🌱 Currently Learning: Full Stack Web Development: JavaScript, Vue.js, Node, Express and Nuxt.js <br><br>
 📫 How to reach me: </h2>
 
-- Some of my projects can be seen in my web portfolio: [<img alt="Github" width="28px" src="https://img.icons8.com/fluent/96/000000/domain.png" />](https://euclid556.github.io/portfolio/)
+- Some of my projects can be seen in my web portfolio: [<img alt="Github" width="28px" src="https://img.icons8.com/fluent/96/000000/domain.png" />](https://davidos.netlify.app/)
 
 
 - Other ways to find me:
