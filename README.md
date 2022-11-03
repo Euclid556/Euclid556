@@ -63,6 +63,8 @@
   
 <div align="center">
   <h3>JavaScript, TypeScript, Vue.js, React, Postgres, SQL, Python.</h3>
+  
+  ![github_stats_euclid556_2022](https://user-images.githubusercontent.com/86713709/199818292-572c4a2a-2ba7-4e35-8201-227271e3544d.PNG)
 
 Django, Docker, Pandas, React.js, Vue.js, Nuxt.js, Redux, HTMX, Plotly, Dash, Redis, Celery, Django Channels, websockets, DRF, Scipy, Numpy, Tensorflow, Scikit-Learn, Scrapy, SQLAlchemy, Splash, Flask, Tkinter, Asyncio, Pyomo, Pytest, Heroku, AWS, Google Cloud Platform, Jenkins, Blender, Unreal-Engine, Jest, Cypress
 </div>
