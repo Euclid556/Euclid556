@@ -38,7 +38,7 @@
 🌱 Currently Learning: Full Stack Web Development: JavaScript, Vue.js, Node, Express and Nuxt.js <br><br>
 📫 How to reach me: </h2>
 
-- Some of my projects can be seen in my web portfolio: [<img alt="Github" width="28px" src="https://img.icons8.com/fluent/96/000000/domain.png" />](https://davidos.netlify.app/)         ![Netlify Status](https://camo.githubusercontent.com/6de5bf52128cb7144f69d7a5b5292d4c3687ceee687929de70aad01826208f95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d737563636573732d627269676874677265656e2e737667)
+- Some of my projects can be seen in my web portfolio: [<img alt="Github" width="28px" src="https://img.icons8.com/fluent/96/000000/domain.png" />](https://davidos.netlify.app/)         ![Netlify Status](https://camo.githubusercontent.com/150a1071265333b94014bf05ac4bea29b7a625e2d2e87123c39c7166d8cc6dc9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d737563636573732d737563636573732e737667)
 
 - Other ways to find me:
 
