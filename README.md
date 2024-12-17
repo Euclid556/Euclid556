@@ -68,7 +68,85 @@
 
 Django, Docker, Pandas, React.js, Vue.js, Nuxt.js, Redux, HTMX, Plotly, Dash, Redis, Celery, Django Channels, websockets, DRF, Scipy, Numpy, Tensorflow, Scikit-Learn, Scrapy, SQLAlchemy, Splash, Flask, Tkinter, Asyncio, Pyomo, Pytest, Heroku, AWS, Google Cloud Platform, Jenkins, Blender, Unreal-Engine, Jest, Cypress
 </div>
+
+#### With over 10 years of experience and 5+ years of formal education in Mathematics and Computer Science, I am a Full-Stack Software Engineer specializing in designing and developing web applications. Proficient in JavaScript frameworks such as React, Vue, Svelte, Stencil, and Angular and with back-end technologies like Node.js, Go, and Rust. My focus is on building scalable, efficient, and secure applications that meet modern standards and user needs.
+
+<details>
+  <summary>Professional Highlights, Proficiencies, Interests, and Personal Beliefs</summary>
+  
+### Highlights:
+- ⭐ Professional experience in full lifecycle development
+- ⭐ 7+ years in leadership positions
+- ⭐ Mentoring individuals on technical and leadership growth
+- ⭐ Worked on innovative and cutting-edge projects
+- ⭐ Contribute to industry thought leadership
+- ⭐ Contribute to both open-source and private-source projects
+- ⭐ Mastering new technologies, computer science, and mathematics
+
+### Proficiencies:
+
+- 📚 **Programming Languages & Frameworks**:  
+  JavaScript, TypeScript, Go, Rust,
+  React.js, Next.js (SSR/CSR), Vue.js, Nuxt.js (SSR/CSR), Angular, Svelte, Stencil  
+  MUI (Material UI), VuePrime, PrimeFlex
+
+- 📚 **Backend & Architecture**:  
+  Node.js, Serverless, Microservices, Containers, Prisma, TypeORM
+
+- 📚 **Web Development**:  
+  HTML5, CSS3, Canvas, WebGL, Animation, Web Components  
+  Storybook (Component Library)
+
+- 📚 **Databases**:  
+  SQL: MySQL, PostgreSQL  
+  NoSQL: MongoDB, DynamoDB, Redis
+
+- 📚 **Cloud Platforms**:  
+  AWS, Azure, GCP, Google Cloud, Google Firebase
+
+- 📚 **Blockchain & Cryptography**:  
+  Cryptocurrency, Blockchain technologies
+
+- 📚 **Development Methodologies**:  
+  Agile, Scrum, Kanban
+
+- 📚 **Web2/Web3**:  
+  Experience with Web2 and Web3 environments
+
+- 📚 **Leadership & Collaboration**:  
+  Team Leadership, Project Leadership, Mentorship
+
+
+### Interests:
+- **✔️ Lifelong Learning and Growth**:  
+  Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements.
+
+- **✔️ Family Values**:  
+  Prioritize nurturing strong family relationships, fostering meaningful connections, and achieving a healthy work-life balance to support personal happiness and well-being.
+
+- **✔️ Active Lifestyle**:  
+  Commit to regular physical activities like gym workouts, recognizing the role of fitness in boosting productivity, focus, and overall health.
+
+### Personal Beliefs:
+- 💡 **The Transformative Power of Lifelong Learning**:  
+  Embrace continuous learning and personal growth to adapt, innovate, and stay ahead in an ever-changing world.
+
+- 💡 **The Impact of a Positive Mindset**:  
+  Cultivate optimism and resilience to navigate challenges effectively and inspire those around you.
+
+- 💡 **The Value of Hard Work and Perseverance**:  
+  Recognize dedication and persistence as key drivers of long-term success and personal fulfillment.
+
+- 💡 **The Role of Empathy and Kindness**:  
+  Foster meaningful connections and contribute to a harmonious society through compassion and understanding.
+
+- 💡 **The Importance of Ethics and Integrity**:  
+  Commit to honesty and moral principles as the foundation for trust, respect, and sustainable success in all aspects of life.
+
+</details>
  
+![Shield](https://camo.githubusercontent.com/8ba39c4c2622a8b0a930639d588a59226159cb4668c31758b03dc1ec437effb9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d726973686176616e616e6426267374796c653d666c61742d737175617265)
+
 <!--
 **Euclid556/Euclid556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
